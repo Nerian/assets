@@ -1,6 +1,6 @@
 module Lotus
   module Helpers
-    # The default view that is rendered for non successful responses (200 and 201)
+    # The helper methods used for using assets.
     #
     # @since 0.6.0
     # @api public
